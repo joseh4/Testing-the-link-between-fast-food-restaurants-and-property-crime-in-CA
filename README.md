@@ -1,2 +1,3 @@
-# Testing-the-link-between-fast-food-restaurants-and-property-crime-in-CA
-We will run a two sample T test on the relationship between property crime and fast food in the state of California
+                        Link betweemn Fast Food and Crime
+                        by Joe Hart & Charles Pryor
+The goal of this project is to see if there is a link between the number of fast food restaurants and property crime in California.  We formulated three hypotheses, gathered data, and ran statistical tests.  In two of the hypetheses we failed to reject the null. We ran a two sample T test on the relationship between property crime and fast food in the state of California and also a regression analysis on number of fast food restaurants belanced against population.  Joe Hart found all of the data sets and he along with Charles Pryor cleaned the data and ran the tests.  Charles analyzed the data of number of fast food restaurants per person by population and ran a regression analysis.  Joe Hart performed 2 sample t-tests on crime and fast food for the study.  We both contributed to the repository, presentation slides and executed the presentations.
